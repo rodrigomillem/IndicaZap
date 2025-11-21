@@ -1,0 +1,1 @@
+# Virtual env venv/ .env/ # PyCharm .idea/ # Bytecode __pycache__/ *.pyc # macOS metadata .DS_Store # Logs *.log
